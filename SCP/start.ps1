@@ -1,0 +1,1 @@
+Invoke-Expression "& 'C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory Dedicated Server\LocalAdmin.exe' C:\temp\TestProject1\TestProject1.pjs /run /exit /SilentMode"
